@@ -1,4 +1,4 @@
-##NAVBAR
+## NAVBAR
 
 <p align="center">
  <img src="https://media.giphy.com/media/hvEdKpliYKcY0s4Pak/giphy.gif" width="385">
@@ -29,9 +29,9 @@ en este repositorio veremos disrintas clses de codigos y variables unos de ellos
 
 ## 📢 Eventos
 
-Se desarrolllo un Drag ahd Drog normal y uno personalizado por unos mismo, estos se realizaron segun las instrucciones del instructor 
+Se desarrolllo UN Navbar con su cursor un menu aleatorio y este maneja color al igual que se le inserto una imagen, tambien se desarrollo la el Navbar personalizado  
 
 ## 💼 EVIDENCIAS: 
 
-* Drag and Drop 
-* Drag Drop Perzonalizado 
+* Navbar
+*Navbar personalizado   
