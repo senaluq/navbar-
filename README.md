@@ -1,7 +1,7 @@
 ## NAVBAR
 
 <p align="center">
- <img src="https://media.giphy.com/media/hvEdKpliYKcY0s4Pak/giphy.gif" width="385">
+ <img src="https://media.giphy.com/media/iKlVVfabgroEE/giphy.gif" width="385">
 
 </p>
 
